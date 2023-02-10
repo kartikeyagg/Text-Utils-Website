@@ -14,8 +14,8 @@ This is an text Utility website enter text and perform various operation on it .
 
 
 
-![](/home/kartikey/snap/marktext/9/.config/marktext/images/2023-02-10-18-36-09-Screenshot%20from%202023-02-10%2018-35-34.png)
+![](Home_page.png)
 
 
 
-![](/home/kartikey/snap/marktext/9/.config/marktext/images/2023-02-10-18-35-47-image.png)
+![](Analyzed_page.png)
